@@ -19,17 +19,12 @@ Typecho数学公式插件，支持MathJax和KaTeX两种渲染引擎，让您的�
 
 ## 安装方法
 
-### 方法一：直接下载
+### 方法：直接下载
 1. 下载插件压缩包
 2. 解压后将文件夹重命名为`MathFormula`
 3. 上传到Typecho博客的`usr/plugins/`目录
 4. 登录后台，在"插件管理"中启用插件
 5. 点击"设置"按钮进行配置
-
-### 方法二：Git克隆
-```bash
-git clone https://github.com/yourusername/typecho-plugin-mathformula.git usr/plugins/MathFormula
-```
 
 ## 使用说明
 
